@@ -1,7 +1,5 @@
 # /etc
 
----
-
 ## This repository includes
 * /etc files
 * Visual Studio Code configs
