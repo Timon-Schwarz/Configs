@@ -1,0 +1,1 @@
+-novid -exec autoexec -tickrate 128 -refresh 60
