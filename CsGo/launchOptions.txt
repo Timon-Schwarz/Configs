@@ -1,1 +1,1 @@
--novid -exec autoexec -tickrate 128 -refresh 60
+-novid -nojoy -high -fullscreen -limitvsconst -forcenovsync -softparticlesdefaultoff -tickrate 128 -exec autoexec -refresh 75
