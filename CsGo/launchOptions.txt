@@ -1,1 +1,1 @@
--novid -nojoy -high -fullscreen -limitvsconst -forcenovsync -softparticlesdefaultoff -tickrate 128 -exec autoexec -refresh 75
+-novid -nojoy -high -fullscreen -limitvsconst -forcenovsync -softparticlesdefaultoff -tickrate 128 -refresh 75 +exec autoexec.cfg
